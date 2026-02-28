@@ -239,6 +239,15 @@ pip install -r requirements.txt
 # Run application
 streamlit run app.py
 
+### 🎯 Key Learnings
 
+- Feature engineering significantly improves model performance.
+- Cross-validation helps prevent overfitting.
+- Comparing multiple models improves decision confidence.
+- Clean project structure enhances readability and usability.
+- End-to-end ML pipelines include preprocessing → training → deployment.
 
+### 👩‍💻 Author
 
+**Malleswarapu Sriya**  
+Machine Learning Enthusiast | Data Science Student
