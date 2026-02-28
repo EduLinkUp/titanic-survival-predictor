@@ -240,7 +240,7 @@ streamlit run app.py
 
 ---
 
-### 🎯 Key Learnings
+## 🔎 Key Observations
 
 - Feature engineering significantly improves model performance.
 - Cross-validation helps prevent overfitting.
@@ -250,9 +250,7 @@ streamlit run app.py
 
 ---
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 
 **Malleswarapu Sriya**  
 Machine Learning Enthusiast | Data Science Student
-
----
