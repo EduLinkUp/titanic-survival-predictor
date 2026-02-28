@@ -221,7 +221,6 @@ titanic-survival-predictor/
 ├── README.md
 └── LICENSE
 
-
 ---
 
 ## ▶ How to Run Locally
@@ -239,6 +238,8 @@ pip install -r requirements.txt
 # Run application
 streamlit run app.py
 
+---
+
 ### 🎯 Key Learnings
 
 - Feature engineering significantly improves model performance.
@@ -247,7 +248,11 @@ streamlit run app.py
 - Clean project structure enhances readability and usability.
 - End-to-end ML pipelines include preprocessing → training → deployment.
 
+---
+
 ### 👩‍💻 Author
 
 **Malleswarapu Sriya**  
 Machine Learning Enthusiast | Data Science Student
+
+---
